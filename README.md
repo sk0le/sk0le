@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk0le" alt="sk0le" /></a> </p>
 
-- 🔭 I’m currently working on [Ephorize RP](https://ephorize-rp.com/)
+- 🔭 I’m currently working on [Ephorize RP](https://ephorize-rp.net/)
 
 - 🌱 I’m currently learning **Rust**
 
