@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://amelislamovic.tech](https://amelislamovic.tech)
+- 👨‍💻 All of my projects are available at [https://amelislamovic.online](https://amelislamovic.online)
 
-- 📝 I regularly write articles on [https://amelislamovic.tech/blog](https://amelislamovic.tech/blog)
+- 📝 I regularly write articles on [https://amelislamovic.online/blog](https://amelislamovic.online/blog)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **islamovicamel13@gmail.com**
 
-- 📄 Know about my experiences [https://amelislamovic.tech/resume.pdf](https://amelislamovic.tech/resume.pdf)
+- 📄 Know about my experiences [https://amelislamovic.online/resume.pdf](https://amelislamovic.online/resume.pdf)
 
 - ⚡ Fun fact **I love learning new stuff**
 
