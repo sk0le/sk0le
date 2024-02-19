@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Rust**
 
-[comment]: <> - 👯 I’m looking to collaborate on **open source projects**
+<!--- # - 👯 I’m looking to collaborate on **open source projects** --->
 
 - 👨‍💻 All of my projects are available at [https://amelislamovic.online](https://amelislamovic.online)
 
-[comment]: <> - 📝 I regularly write articles on [https://amelislamovic.online/blog](https://amelislamovic.online/blog)
+<!--- # - 📝 I regularly write articles on [https://amelislamovic.online/blog](https://amelislamovic.online/blog) --->
 
 - 📫 How to reach me **islamovicamel13@gmail.com**
 
