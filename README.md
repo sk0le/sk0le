@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amel Islamovic</h1>
-<h3 align="center">A passionate frontend developer from Bosnia and Herzegovuba</h3>
+<h3 align="center">A passionate full-stack developer from Bosnia and Herzegovuba</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk0le&label=Profile%20views&color=0e75b6&style=flat" alt="sk0le" /> </p>
 
@@ -11,13 +11,13 @@
 
 <!--- # - 👯 I’m looking to collaborate on **open source projects** --->
 
-- 👨‍💻 All of my projects are available at [https://amelislamovic.online](https://amelislamovic.online)
+<!--- 👨‍💻 All of my projects are available at [https://amelislamovic.online](https://amelislamovic.online) --->
 
 <!--- # - 📝 I regularly write articles on [https://amelislamovic.online/blog](https://amelislamovic.online/blog) --->
 
 - 📫 How to reach me **islamovicamel13@gmail.com**
 
-- 📄 Know about my experiences [https://amelislamovic.online/resume.pdf](https://amelislamovic.online/resume.pdf)
+- 📄 Know about my experiences [https://amelislamovic.online/resume.pdf](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
