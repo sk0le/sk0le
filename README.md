@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **islamovicamel13@gmail.com**
 
-- 📄 Know about my experiences [https://amelislamovic.online/resume.pdf](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PnVSE0j53fVYkaXkB9al9DnihcPOTgVE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
